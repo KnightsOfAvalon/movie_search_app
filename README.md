@@ -1,3 +1,7 @@
+I created this project while following [this tutorial](https://www.youtube.com/watch?v=bqSSLr8A8PU&feature=youtu.be).
+
+You can view this project in your webpage by following [this link](https://knightsofavalon.github.io/movie_search_app/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
