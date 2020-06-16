@@ -1,0 +1,35 @@
+.movieRow {
+  display: block;
+  padding: 30px 20px;
+}
+
+.movieRow:nth-of-type(even) {
+  background-color: rgb(240, 240, 240);
+}
+
+.text {
+  padding-left: 15px;
+}
+
+.movieTitle {
+  margin-bottom: 25px;
+}
+
+.description {
+  margin-bottom: 25px;
+}
+
+.button {
+  font-size: 20px;
+  font-weight: bold;
+  color: #fff;
+  padding: 5px 15px;
+  border: 1px solid rgb(65, 218, 124);
+  border-radius: 50px;
+  background-color: rgb(65, 218, 124);
+  cursor: pointer;
+}
+
+.poster img {
+  border-radius: 20px;
+}
