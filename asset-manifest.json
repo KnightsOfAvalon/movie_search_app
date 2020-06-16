@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KnightsOfAvalon/movie_search_app/static/css/main.4ce0ff93.chunk.css",
+    "main.js": "/KnightsOfAvalon/movie_search_app/static/js/main.5994946e.chunk.js",
+    "main.js.map": "/KnightsOfAvalon/movie_search_app/static/js/main.5994946e.chunk.js.map",
+    "runtime-main.js": "/KnightsOfAvalon/movie_search_app/static/js/runtime-main.818b85f0.js",
+    "runtime-main.js.map": "/KnightsOfAvalon/movie_search_app/static/js/runtime-main.818b85f0.js.map",
+    "static/js/2.5979129a.chunk.js": "/KnightsOfAvalon/movie_search_app/static/js/2.5979129a.chunk.js",
+    "static/js/2.5979129a.chunk.js.map": "/KnightsOfAvalon/movie_search_app/static/js/2.5979129a.chunk.js.map",
+    "index.html": "/KnightsOfAvalon/movie_search_app/index.html",
+    "precache-manifest.90b0bac87affdf5f1c8349e40b67c277.js": "/KnightsOfAvalon/movie_search_app/precache-manifest.90b0bac87affdf5f1c8349e40b67c277.js",
+    "service-worker.js": "/KnightsOfAvalon/movie_search_app/service-worker.js",
+    "static/css/main.4ce0ff93.chunk.css.map": "/KnightsOfAvalon/movie_search_app/static/css/main.4ce0ff93.chunk.css.map",
+    "static/js/2.5979129a.chunk.js.LICENSE.txt": "/KnightsOfAvalon/movie_search_app/static/js/2.5979129a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.818b85f0.js",
+    "static/js/2.5979129a.chunk.js",
+    "static/css/main.4ce0ff93.chunk.css",
+    "static/js/main.5994946e.chunk.js"
+  ]
+}
