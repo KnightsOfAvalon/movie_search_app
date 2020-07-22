@@ -54,7 +54,11 @@ class App extends React.Component {
           <tbody>
             <tr>
               <td>
-                <img width="50px" src="./MovieDB.png" alt="MovieDB Icon" />
+                <img
+                  width="50px"
+                  src={require("./MovieDB.png")}
+                  alt="MovieDB Icon"
+                />
               </td>
               <td className="title">
                 <h1>MoviesDB Search</h1>
